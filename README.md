@@ -2,14 +2,6 @@
 
 A Python Script that converts a commented MATLAB Project to a Markdown File.
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install [Markdown2PDF](https://pypi.org/project/Markdown2PDF/).
-
-```bash
-pip install Markdown2PDF
-```
-
 ## Usage
 
 ```bash
